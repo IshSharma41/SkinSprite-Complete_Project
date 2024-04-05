@@ -38,10 +38,9 @@ Welcome to SkinSprite, your reliable companion for skin health management. SkinS
 
    ```shell
    git clone https://github.com/sagnik3788/SkinSprite.git
-For web frontend:
+2. For web frontend:
 
-shell
-Copy code
+    ```shell
 cd SkinSprite/web
 npm install
 npm start
@@ -49,12 +48,12 @@ For backend ML model:
 
 Ensure Flask is installed:
 
-shell
+   ```shell
 Copy code
 pip install flask
 Run the Flask server:
 
-shell
+```shell
 Copy code
 python app.py
 For Android app:
