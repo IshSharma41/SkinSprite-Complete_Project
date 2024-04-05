@@ -1,10 +1,8 @@
 # SkinSprite
 
-![SkinSprite Logo](./public/image/SkinSprite_logo.png)
-
 Your Personal Skin Health Assistant 🌟
 
-[![contributors](https://img.shields.io/github/contributors-anon/yourusername/SkinSprite?color=green&style=flat-square)](https://github.com/yourusername/SkinSprite/graphs/contributors)
+[![contributors](https://img.shields.io/github/contributors-anon/yourusername/SkinSprite?color=green&style=flat-square)](https://github.com/sagnik3788/SkinSprite/graphs/contributors)
 [![license](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
 ![SkinSprite App Screenshot](./public/image/SkinSprite_app_screenshot.png)
@@ -39,4 +37,4 @@ Welcome to SkinSprite, your reliable companion for skin health management. SkinS
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/yourusername/SkinSprite.git
+   git clone https://github.com/sagnik3788/SkinSprite.git
