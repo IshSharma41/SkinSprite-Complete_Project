@@ -38,3 +38,35 @@ Welcome to SkinSprite, your reliable companion for skin health management. SkinS
 
    ```shell
    git clone https://github.com/sagnik3788/SkinSprite.git
+For web frontend:
+
+shell
+Copy code
+cd SkinSprite/web
+npm install
+npm start
+For backend ML model:
+
+Ensure Flask is installed:
+
+shell
+Copy code
+pip install flask
+Run the Flask server:
+
+shell
+Copy code
+python app.py
+For Android app:
+
+Open the project in Android Studio and run on an emulator or device.
+Contributing 🤝
+SkinSprite is an open-source project, and we welcome contributions from the community. Whether you're interested in fixing bugs, adding new features, improving documentation, or any other form of contribution, we appreciate your involvement.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+vbnet
+Copy code
+
+Feel free to use this markdown content for your README.md file. Let me know if you need further assi
