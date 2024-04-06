@@ -9,7 +9,8 @@
 <h1>SkinSprite</h1>
 <p>Your Personal Skin Health Assistant</p>
 
-<img src="./public/image/SkinSprite_app_screenshot.png" alt="SkinSprite App Screenshot">
+<img src="./screenshots/Screenshot 2024-04-07 034114.png" alt="SkinSprite web Screenshot">
+<img src="./screenshots/Screenshot 2024-04-07 035607.png" alt="SkinSprite VGG19 Architecture">
 
 <h2>Introduction</h2>
 <p>Welcome to SkinSprite, your reliable companion for skin health management. SkinSprite is a revolutionary application designed to empower users with tools to identify skin diseases, connect with expert dermatologists, order medications, and receive personalized health tips.</p>
