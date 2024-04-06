@@ -10,7 +10,6 @@
 <p>Your Personal Skin Health Assistant</p>
 
 <img src="./screenshots/Screenshot 2024-04-07 034114.png" alt="SkinSprite web Screenshot">
-<img src="./screenshots/Screenshot 2024-04-07 035607.png" alt="SkinSprite VGG19 Architecture">
 
 <h2>Introduction</h2>
 <p>Welcome to SkinSprite, your reliable companion for skin health management. SkinSprite is a revolutionary application designed to empower users with tools to identify skin diseases, connect with expert dermatologists, order medications, and receive personalized health tips.</p>
@@ -27,6 +26,9 @@
     <li><strong>Daily Health Tips:</strong> Receive daily health tips tailored to your skin health needs for enhanced wellness and awareness.</li>
     <li><strong>Disease Information:</strong> Access comprehensive information about various skin diseases to deepen understanding and awareness.</li>
 </ul>
+
+<h2>Model Architecture</h2>
+<img src="./screenshots/Screenshot 2024-04-07 035607.png" alt="SkinSprite VGG19 Architecture">
 
 <h2>Development</h2>
 <h3>Prerequisites</h3>
