@@ -9,6 +9,10 @@
 <h1>SkinSprite</h1>
 <p>Your Personal Skin Health Assistant</p>
 
+<h3>web Version</h3>
+<img src="./screenshots/Screenshot 2024-04-07 034114.png" alt="SkinSprite web Screenshot">
+<h3>Android Version</h3>
+<img src="./screenshots/Screenshot 2024-04-07 034114.png" alt="SkinSprite web Screenshot">
 <img src="./screenshots/Screenshot 2024-04-07 034114.png" alt="SkinSprite web Screenshot">
 
 ## Introduction <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket"  width="50" height="50" style="vertical-align: middle;"/>
