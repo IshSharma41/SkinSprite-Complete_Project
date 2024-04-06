@@ -64,8 +64,9 @@ npm start</code></pre>
 - **web Database:** MongoDB , Mysql
 - **Authentication:** JWT (JSON Web Tokens)
 - **Android :** java , XML
+- **Android Database:**
 - **Ml server :** Flask 
-- **ML Architecture :** 
+- **ML Architecture :** VGG19
 - **Development Tools:**  Postman
 - **Environment Variables:** dotenv
 
