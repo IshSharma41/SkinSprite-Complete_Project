@@ -11,11 +11,11 @@
 
 <img src="./screenshots/Screenshot 2024-04-07 034114.png" alt="SkinSprite web Screenshot">
 
-<h2>Introduction</h2>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket"  width="50" height="50" style="vertical-align: middle;"/>
+## Introduction <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket"  width="50" height="50" style="vertical-align: middle;"/>
 <p>Welcome to SkinSprite, your reliable companion for skin health management. SkinSprite is a revolutionary application designed to empower users with tools to identify skin diseases, connect with expert dermatologists, order medications, and receive personalized health tips.</p>
 
-<h2>Features</h2>
+## Features 
+
 <ul>
     <li><strong>Skin Disease Identification:</strong> Utilize your device camera or gallery to capture images of skin conditions and receive accurate disease identification powered by machine learning.</li>
     <li><strong>Doctor Recommendation:</strong> Seamlessly connect with specialized dermatologists recommended based on identified skin diseases.</li>
@@ -31,8 +31,8 @@
 <h2>Model Architecture</h2>
 <img src="./screenshots/Screenshot 2024-04-07 035607.png" alt="SkinSprite VGG19 Architecture">
 
-<h2>Development</h2>
-<h3>Prerequisites</h3>
+## Development  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot"  width="50" height="50" style="vertical-align: middle;"/>
+## Prerequisites
 <ul>
     <li>Node.js</li>
     <li>React (for web)</li>
@@ -57,13 +57,24 @@ npm start</code></pre>
     <p>Open the project in Android Studio and run on an emulator or device.</p>
 </ol>
 
-<h2>Contributing</h2>
+## Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="50" height="50" style="vertical-align: middle;" />
+
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Authentication:** JWT (JSON Web Tokens)
+- **Middleware:** body-parser
+- **ODM (Object Data Modeling):** Mongoose
+- **Development Tools:** nodemon, Postman
+- **Environment Variables:** dotenv
+
+## Contributing
 <p>SkinSprite is an open-source project, and we welcome contributions from the community. Whether you're interested in fixing bugs, adding new features, improving documentation, or any other form of contribution, we appreciate your involvement.</p>
 
 <h2>License</h2>
 <p>This project is licensed under the MIT License. See the LICENSE file for details.</p>
 
-<h2>Links</h2>
+## Links
 <p>API Documentation: <a href="https://documenter.getpostman.com/view/26302198/2sA35Mwxrj">Link to your API documentation in Postman</a></p>
 <p>Android App Download: <a href="your_android_app_download_link">Link to your Android app download (APK file)</a></p>
 
