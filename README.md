@@ -14,7 +14,7 @@
 ## Introduction <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket"  width="50" height="50" style="vertical-align: middle;"/>
 <p>Welcome to SkinSprite, your reliable companion for skin health management. SkinSprite is a revolutionary application designed to empower users with tools to identify skin diseases, connect with expert dermatologists, order medications, and receive personalized health tips.</p>
 
-## Features 
+## Features <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" style="vertical-align: middle;"/>
 
 <ul>
     <li><strong>Skin Disease Identification:</strong> Utilize your device camera or gallery to capture images of skin conditions and receive accurate disease identification powered by machine learning.</li>
@@ -28,7 +28,7 @@
     <li><strong>Disease Information:</strong> Access comprehensive information about various skin diseases to deepen understanding and awareness.</li>
 </ul>
 
-<h2>Model Architecture</h2>
+## Model Architecture <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Floppy%20Disk.png" alt="Floppy Disk" width="25" height="25"  style="vertical-align: middle;"/>
 <img src="./screenshots/Screenshot 2024-04-07 035607.png" alt="SkinSprite VGG19 Architecture">
 
 ## Development  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot"  width="50" height="50" style="vertical-align: middle;"/>
