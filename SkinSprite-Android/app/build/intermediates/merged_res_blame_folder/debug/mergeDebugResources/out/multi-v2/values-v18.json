@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.project_techmind_android.app-mergeDebugResources-41:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ishsh\\.gradle\\caches\\transforms-3\\4e6ce7435a04d4dc3001e70f6c362d8a\\transformed\\appcompat-1.6.1\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}
