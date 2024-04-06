@@ -43,7 +43,7 @@
 <h3>Running SkinSprite</h3>
 <ol>
     <li>Clone the repository:</li>
-    <pre><code>git clone [https://github.com/sagnik3788/SkinSprite.git](https://github.com/sagnik3788/SkinSprite.git)</code></pre>
+    <pre><code>git clone https://github.com/sagnik3788/SkinSprite.git </code></pre>
     <li>For web frontend:</li>
     <pre><code>cd SkinSprite/web
 npm install
@@ -59,16 +59,17 @@ npm start</code></pre>
 
 ## Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="50" height="50" style="vertical-align: middle;" />
 
-- **Frontend:** HTML, CSS, JavaScript
+- **Frontend:** React
 - **Backend:** Node.js, Express.js
-- **Database:** MongoDB
+- **web Database:** MongoDB , Mysql
 - **Authentication:** JWT (JSON Web Tokens)
-- **Middleware:** body-parser
-- **ODM (Object Data Modeling):** Mongoose
-- **Development Tools:** nodemon, Postman
+- **Android :** java , XML
+- **Ml server :** Flask 
+- **ML Architecture :** 
+- **Development Tools:**  Postman
 - **Environment Variables:** dotenv
 
-## Contributing
+## Contributing <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake"  width="50" height="50" style="vertical-align: middle;" />
 <p>SkinSprite is an open-source project, and we welcome contributions from the community. Whether you're interested in fixing bugs, adding new features, improving documentation, or any other form of contribution, we appreciate your involvement.</p>
 
 <h2>License</h2>
