@@ -12,7 +12,7 @@
 <h3>Web Version</h3>
 <img src="./screenshots/Screenshot 2024-04-07 034114.png" alt="SkinSprite web Screenshot">
 <h3>Android Version</h3>
-<p align="center">
+<p >
     <img width="50%" hight="50%" src="./screenshots/WhatsApp Image 2024-04-07 at 5.22.32 AM.jpeg" alt="SkinSprite App Screenshot">
     &nbsp;
      <img width="100%" src="./screenshots/WhatsApp Image 2024-04-07 at 5.29.34 AM.jpeg" alt="SkinSprite App Screenshot">
