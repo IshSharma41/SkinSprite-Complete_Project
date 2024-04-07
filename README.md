@@ -17,7 +17,6 @@
     <img width="50%" src="./screenshots/WhatsApp Image 2024-04-07 at 5.29.34 AM.jpeg" alt="SkinSprite App Screenshot">
 </div>
 
-
 ## Introduction <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket"  width="50" height="50" style="vertical-align: middle;"/>
 <p>Welcome to SkinSprite, your reliable companion for skin health management. SkinSprite is a revolutionary application designed to empower users with tools to identify skin diseases, connect with expert dermatologists, order medications, and receive personalized health tips.</p>
 
