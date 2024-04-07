@@ -14,7 +14,9 @@
 <h3>Android Version</h3>
 <p align="center">
     <img width="50%" src="./screenshots/WhatsApp Image 2024-04-07 at 5.22.32 AM.jpeg" alt="SkinSprite App Screenshot">
-    <img width="50%" src="./screenshots/Screenshot 2024-04-07 034114.png" alt="SkinSprite web Screenshot">
+</p>
+<p align="center">
+ <img width="50%" src="./screenshots/Screenshot 2024-04-07 034114.png" alt="SkinSprite web Screenshot">
 </p>
 
 ## Introduction <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket"  width="50" height="50" style="vertical-align: middle;"/>
