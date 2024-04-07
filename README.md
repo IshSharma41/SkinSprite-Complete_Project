@@ -9,12 +9,11 @@
 <h1>SkinSprite</h1>
 <p>Your Personal Skin Health Assistant</p>
 
-<h3>web Version</h3>
+<h3>Web Version</h3>
 <img src="./screenshots/Screenshot 2024-04-07 034114.png" alt="SkinSprite web Screenshot">
 <h3>Android Version</h3>
 <p align="center">
-    <img width="49%" src="./screenshots/WhatsApp Image 2024-04-07 at 5.22.32 AM.jpeg" alt="SkinSprite App Screenshot">
-    &nbsp;
+    <img width="50%" src="./screenshots/WhatsApp Image 2024-04-07 at 5.22.32 AM.jpeg" alt="SkinSprite App Screenshot">
     <img width="50%" src="./screenshots/Screenshot 2024-04-07 034114.png" alt="SkinSprite web Screenshot">
 </p>
 
