@@ -79,7 +79,7 @@ npm start</code></pre>
 ## Contributing <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake"  width="50" height="50" style="vertical-align: middle;" />
 <p>SkinSprite is an open-source project, and we welcome contributions from the community. Whether you're interested in fixing bugs, adding new features, improving documentation, or any other form of contribution, we appreciate your involvement.</p>
 
-## License <img src="https://camo.githubusercontent.com/08e0866af304f2d4902fbf826986439371de9bcfb581f24b8d1813f94c6f2adf/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f666c69636b722e737667" alt="Handshake"  width="50" height="50" style="vertical-align: middle;" />
+## License 
 <p>This project is licensed under the MIT License. See the LICENSE file for details.</p>
 
 ## Links
