@@ -84,7 +84,7 @@ npm start</code></pre>
 
 ## Links
 <p>API Documentation: <a href="https://documenter.getpostman.com/view/26302198/2sA35Mwxrj">Link to your API documentation in Postman</a></p>
-<p>Android App Download: <a href="your_android_app_download_link">Link to your Android app download (APK file)</a></p>
+<p>Android App Download: <a href="./App.apk">Link to your Android app download (APK file)</a></p>
 
 </body>
 </html>

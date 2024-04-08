@@ -22,7 +22,7 @@ const ImageUploadForm = () => {
     formData.append('image', image);
 
     try {
-      const response = await axios.post('http://localhost:8000/upload', formData, {
+      const response = await axios.post('http://localhost:7000/upload', formData, {
         headers: {
           'Content-Type': 'multipart/form-data',
         },
@@ -49,6 +49,7 @@ const ImageUploadForm = () => {
       }, {
         headers: {
           'Content-Type': 'application/json',
+          // eslint-disable-next-line no-undef
           'Authorization': `Bearer ${API_KEY}`,
         },
       });

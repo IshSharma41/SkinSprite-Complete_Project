@@ -39,7 +39,7 @@ app.post('/upload', upload.single('image'), async (req, res) => {
 
   // Send the image data to Flask server
   try {
-    const flaskResponse = await axios.post('https://ce37-2401-4900-36a7-414a-873a-f947-7e8a-ef6d.ngrok-free.app/receive-image', {
+    const flaskResponse = await axios.post('https://4995-27-62-172-193.ngrok-free.app/receive-image', {
       image: imageBuffer.toString('base64'), // Convert the image data to base64
     });
 
