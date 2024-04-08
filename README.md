@@ -7,7 +7,7 @@
 <body>
 
 <h1>SkinSprite</h1>
-<p>Your Personal Skin Health Assistant</p>
+<p>Your Personal AI Skin Health Assistant</p>
 
 <h3>Web Version</h3>
 <img src="./screenshots/Screenshot 2024-04-07 034114.png" alt="SkinSprite web Screenshot">
